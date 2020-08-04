@@ -9,4 +9,4 @@
 * ## [Release-v1.6](https://github.com/MullionGroup/Releasenotes/wiki/Release-v1.6)
 * ## [Release-v1.6.1](https://github.com/MullionGroup/Releasenotes/wiki/Release-v1.6.1)
 * ## [Release-v1.7](https://github.com/MullionGroup/Releasenotes/wiki/Release-v1.7)
-* ## [Release-v1.7](https://github.com/MullionGroup/Releasenotes/wiki/Release-v1.8)
+* ## [Release-v1.8](https://github.com/MullionGroup/Releasenotes/wiki/Release-v1.8)
