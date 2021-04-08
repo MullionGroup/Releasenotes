@@ -14,3 +14,5 @@
 * ## [Release-v2.0.1](https://github.com/MullionGroup/Releasenotes/wiki/Release-v2.0.1)
 * ## [Release-v2.1.0](https://github.com/MullionGroup/Releasenotes/wiki/Release-v2.1.0)
 * ## [Release-v2.2.0](https://github.com/MullionGroup/Releasenotes/wiki/Release-v2.2.0)
+* ## [Release-v2.2.1](https://github.com/MullionGroup/Releasenotes/wiki/Release-v2.2.1)
+* ## [Release-v2.2.2](https://github.com/MullionGroup/Releasenotes/wiki/Release-v2.2.2)
